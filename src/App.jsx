@@ -92,7 +92,7 @@ export default function App() {
 
       {/* Header */}
       <header className="golf-header pt-12 pb-24 px-6 text-center shadow-lg relative">
-        <h1 className="serif-font text-5xl text-white mb-2">Golf Journal</h1>
+        <h1 className="serif-font text-5xl text-white mb-2">47's Golf Journal</h1>
         <p className="text-white/60 text-sm tracking-widest uppercase">Precision & Passion</p>
       </header>
 
